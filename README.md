@@ -25,5 +25,21 @@ Si ahora realizamos un movimiento para ver que ocurre en ese caso (movemos la pi
 Ahora vemos como nuestra puntuación ha aumentado al haber conseguido eliminar piezas y se nos solicita un nuevo movimiento para que podamos continuar jugando.
 
 ## Práctica 2 (Con interfaz)
+El funcionamiento del juego es exactamente el mismo que en el caso anterior solo que ahora disponemos de una interfaz en lugar de tener que hacerlo en la consola
 
+<img src="imagenes/practica2.inicio.png" width="775" height="700">
 
+En la interfaz tenemos tres botones que nos permiten:
+- El de más a la izquierda nos permite proporcionar el archivo en donde aparecen las piezas que deben ir apareciendo
+- El del centro nos permite iniciar una nueva partida
+- El de más a la derecha nos permite modificar las dimensiones de nuestro tablero
+
+Para realizar los movimientos simplemente se debe de pulsar en el tablero si queremos no hacer nada o pulsar sobre una pieza y moverla hacia izquierda o derecha para hacer ese movimiento. Una vez indicado el movimiento se produce una animación donde se mueve la pieza, en el caso de ser necesario, caen, se eliminan y aparece la siguiente fila, se añade a la lista de movimientos el movimiento realizado y se actualiza la puntuación (en el caso de que se haya producido alguna eliminación).
+
+Si hacemos la misma secuencia de movimientos que en la práctica 1 (y con el mismo archivo de pruebas):
+
+<img src="imagenes/practica2.insercion.png" width="775" height="700">
+<img src="imagenes/practica2.caida.png" width="775" height="700">
+<img src="imagenes/practica2.insercion2.png" width="775" height="700">
+<img src="imagenes/practica2.movimiento2caida.png" width="775" height="700">
+<img src="imagenes/practica2.insercion3.png" width="775" height="700">
