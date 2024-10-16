@@ -9,13 +9,15 @@ Una vez proporcionado se muestra por consola la situación del tablero como se p
 
 En este momento se nos solicita realizar una jugada (movimiento de una de las piezas), no hacer nada o terminar. Si decidimos no hacer ninguna jugada en este momento, es decir, introducir "---" veremos como no se hace ningún movimiento, caen las piezas, se eliminan en el caso de ser necesario y aparecen las siguientes.
 
-Vemos como se produce desde el principio:
+Vemos como se produce desde el principio (de izquierda a derecha):
 
-<img src="imagenes/practica1.inicio.png" width="275" height="400">
-<img src="imagenes/practica1.movimiento.png" width="275" height="400">
-<img src="imagenes/practica1.caida.png" width="275" height="400">
-<img src="imagenes/practica1.eliminacion.png" width="275" height="400">
-<img src="imagenes/practica1.insercionfila.png" width="275" height="400">
+<p align="center">
+  <img src="imagenes/practica1.inicio.png" width="195" height="290" style="display:inline-block;">
+  <img src="imagenes/practica1.movimiento.png" width="195" height="290" style="display:inline-block;">
+  <img src="imagenes/practica1.caida.png" width="195" height="290" style="display:inline-block;">
+  <img src="imagenes/practica1.eliminacion.png" width="195" height="290" style="display:inline-block;">
+  <img src="imagenes/practica1.insercionfila.png" width="195" height="290" style="display:inline-block;">
+</p>
 
 Si ahora realizamos un movimiento para ver que ocurre en ese caso (movemos la pieza que se encuentra en A1 "###" a la izquierda):
 
