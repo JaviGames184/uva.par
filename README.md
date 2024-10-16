@@ -11,13 +11,12 @@ En este momento se nos solicita realizar una jugada (movimiento de una de las pi
 
 Vemos como se produce desde el principio (de izquierda a derecha):
 
-<p align="center">
-  <img src="imagenes/practica1.inicio.png" width="195" height="290" style="display:inline-block;">
-  <img src="imagenes/practica1.movimiento.png" width="195" height="290" style="display:inline-block;">
-  <img src="imagenes/practica1.caida.png" width="195" height="290" style="display:inline-block;">
-  <img src="imagenes/practica1.eliminacion.png" width="195" height="290" style="display:inline-block;">
-  <img src="imagenes/practica1.insercionfila.png" width="195" height="290" style="display:inline-block;">
-</p>
+<img src="imagenes/practica1.inicio.png" width="275" height="400">
+<img src="imagenes/practica1.movimiento.png" width="275" height="400">
+<img src="imagenes/practica1.caida.png" width="275" height="400">
+<img src="imagenes/practica1.eliminacion.png" width="275" height="400">
+<img src="imagenes/practica1.insercionfila.png" width="275" height="400">
+
 
 Si ahora realizamos un movimiento para ver que ocurre en ese caso (movemos la pieza que se encuentra en A1 "###" a la izquierda):
 
