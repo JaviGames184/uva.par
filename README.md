@@ -5,7 +5,7 @@ Al ejecutar el programa lo primero que se necesita es un archivo con la informac
 
 Una vez proporcionado se muestra por consola la situación del tablero como se puede ver en la siguiente imagen:
 
-<img src="imagenes/Practica1.inicio.png" width="275" height="400">
+<img src="imagenes/Practica1_Inicio.png" width="275" height="400">
 
 En este momento se nos solicita realizar una jugada (movimiento de una de las piezas), no hacer nada o terminar. 
 
