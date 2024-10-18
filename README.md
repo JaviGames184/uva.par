@@ -1,5 +1,5 @@
 # Deslizator
-Este es una práctica de la asignatura de Paradigmas de Programación que consiste en crear un juego similar al tetris con dos versiones:
+Esta es una práctica de la asignatura de Paradigmas de Programación que consiste en crear un juego similar al tetris con dos versiones:
 1. Práctica 1: Se crea el juego sin ninguna interfaz y se muestra en la consola de comandos.
 2. Práctica 2: Se añade una interfaz al juego creado en la práctica 1
 
